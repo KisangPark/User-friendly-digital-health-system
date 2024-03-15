@@ -35,7 +35,6 @@
 자세 교정 시스템 개선
 - 현 자세 교정 시스템은 코사인 유사도를 기반으로 동작의 정확도를 판단하는 방법 사용
 - 기계학습의 방법을 사용한다면 키, 성별, 체중에 따른 동작 정확도를 보다 확실히 판단할 수 있을 것으로 기대
-.
-.
-.
+- 
 ![image](https://github.com/KisangPark/User-friendly-digital-health-system/assets/132832024/525cdc2e-5a13-4aef-9b0f-154305fe1e58)
+![image](https://github.com/KisangPark/User-friendly-digital-health-system/assets/132832024/c085c56a-085d-48d1-9663-f4d1e0353ddf)
